@@ -19,7 +19,7 @@
 3. 书写文章。
 4. git commit 文章。
 5. git push 文章至 `main` 分支即可等待自动部属。
-6. 部属成功后至 `http://root.nsdn.club/nyabb-document/` 查看更新是否成功（反映可能会有些延迟）。
+6. 部属成功后至 <http://root.nsdn.club/nyabb-document/> 查看更新是否成功（反映可能会有些延迟）。
 
 ## 路由
 
