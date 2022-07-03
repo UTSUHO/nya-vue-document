@@ -2,7 +2,7 @@
 
 ## 说明
 
-- 这是 NyaBB 的静态文档。
+- 这是 NyaBB 的静态文档。文章使用 Markdown 格式书写。
 - 使用 [VuePress2](https://v2.vuepress.vuejs.org/zh/) 实现。
 - 关于本文档的使用方法有任何疑问请联系[雪域冰龍](https://setsuikihyoryu.github.io/)。
 
@@ -33,7 +33,8 @@ git push origin main
 1. 在 `docs` 目录下创建子文件夹及文件。
    - 引用相对路径时，`/` 即指向 `docs` 目录。
    - 因为 HTML 是大小写不敏感的，所以文件夹及文件名采用全小写命名，使用 `-` 或 `_` 符号分割单词。
-2. 打开根据情况选择是否书写 Frontmatter。
+   - 只有 `md` 格式的文件可以作为路由和文章使用。
+2. 打开 Markdown 文件，根据情况选择是否书写 Frontmatter。
 3. 书写文章。
 4. git commit 文章。
 5. git push 文章至 `main` 分支即可等待自动部属。
