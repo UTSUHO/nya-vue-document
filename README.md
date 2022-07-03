@@ -40,4 +40,4 @@
 
 ## 单页面配置
 
-可以在每个页面中单独进行配置，详情见[官方 Frontmatter 指南](https://v2.vuepress.vuejs.org/zh/guide/page.html#frontmatter)
+可以在 每个页面中单独进行配置，详情见[官方 Frontmatter 指南](https://v2.vuepress.vuejs.org/zh/guide/page.html#frontmatter)
