@@ -1,7 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
-  base: '/nyabb/',
+  base: '/nyabb-document/',
   lang: 'zh-CN',
   title: 'NyaBB',
   description: 'NyaBB Document',
