@@ -1,16 +1,34 @@
 # REAMDE
 
+## 说明
+
 - 这是 NyaBB 的静态文档。
 - 使用 [VuePress2](https://v2.vuepress.vuejs.org/zh/) 实现。
 - 关于本文档的使用方法有任何疑问请联系[雪域冰龍](https://setsuikihyoryu.github.io/)。
 
+## 下载文档
+
+```shell
+git clone https://github.com/NSDN/nyabb-document.git
+```
+
+## 启动开发服务器
+
+```shell
+npm run docs:dev
+```
+
+※ 修改内容将实时渲染（一部分配置上的修改可能需要重启服务器）
+
 ## 部属
 
-更新 main 分支即可自动部属。
+```shell
+git push origin main
+```
+
+※ 更新 main 分支即可自动部属。也可以创建新分支，通过 pull request 来更新 main。
 
 ## 创建文章流程
-
-※ 使用 `npm run docs:dev` 命令可以打实时查看修改后的渲染结果。
 
 1. 在 `docs` 目录下创建子文件夹及文件。
    - 引用相对路径时，`/` 即指向 `docs` 目录。
