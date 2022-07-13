@@ -1,15 +1,15 @@
 ---
 lang: zh-CN
-description: This is NyaBB Document
+description: This is Nya Vue Document
 ---
 
-# NyaBB Document
+# Nya Vue Document
 
-这是 NyaBB 的开发文档。若要加入文档的创作请参阅[文档开发说明](https://github.com/NSDN/nyabb-document#readme)
+这是 Nya Vue 的开发文档。若要加入文档的创作请参阅[文档开发说明](https://github.com/NSDN/nya-vue-document#readme)
 
-## NyaBB 本体仓库
+## Nya Vue 本体仓库
 
-<https://github.com/NSDN/NyaBB>
+<https://github.com/NSDN/nya-vue>
 
 ## 开发笔记
 
